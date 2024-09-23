@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tlywita.github.io/sitemap.html.gz
+Sitemap: https://tlywita.github.io/app/sitemap.html.gz
+Sitemap: https://tlywita.github.io/assets/sitemap.html.gz
+Sitemap: https://tlywita.github.io/css/sitemap.html.gz
+Sitemap: https://tlywita.github.io/data/sitemap.html.gz
+Sitemap: https://tlywita.github.io/includes/sitemap.html.gz
+Sitemap: https://tlywita.github.io/item/sitemap.html.gz
+Sitemap: https://tlywita.github.io/src/sitemap.html.gz
